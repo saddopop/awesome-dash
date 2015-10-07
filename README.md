@@ -1,7 +1,7 @@
 # Awesome MPEG DASH
 A curated list of resources for learning MPEG DASH
 
-[Awesome MPEG DASH](#awesome-mpeg-dash)
+- [Awesome MPEG DASH](#awesome-mpeg-dash)
     - [Standards](#standards)
     - [Implementations](#implementations)
     - [Contributing](#contributing)
