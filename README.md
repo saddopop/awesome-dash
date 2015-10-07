@@ -1,4 +1,4 @@
-# Curated MPEG DASH Resources
+# Awesome MPEG DASH
 A curated list of resources for learning MPEG DASH
 
 ## Standards
@@ -11,3 +11,6 @@ A curated list of resources for learning MPEG DASH
 - [dash.js](https://github.com/Dash-Industry-Forum/dash.js) - DASH Industry Forum Reference Client.
 - [libdash](https://github.com/bitmovin/libdash) - A C++ library which implements DASH standard by bitmovin.
 - [Shaka Player](https://github.com/google/shaka-player) - A JavaScript library which implements a DASH client by Google.
+
+## Contributing
+Your contributions are always welcome!
