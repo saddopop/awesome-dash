@@ -2,9 +2,10 @@
 A curated list of resources for learning MPEG DASH
 
 - [Awesome MPEG DASH](#awesome-mpeg-dash)
-    - [Standards](#standards)
-    - [Implementations](#implementations)
-    - [Contributing](#contributing)
+  - [Standards](#standards)
+  - [Implementations](#implementations)
+    - [Client](#client)
+  - [Contributing](#contributing)
 
 - - -
 
@@ -12,6 +13,8 @@ A curated list of resources for learning MPEG DASH
 - [ISO/IEC 23009-1](http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=65274) - Dynamic adaptive streaming over HTTP (DASH) -- Part 1: Media presentation description and segment formats.
 - [ISO/IEC 14496-12](http://www.iso.org/iso/catalogue_detail.htm?csnumber=61988) - Coding of audio-visual objects -- Part 12: ISO base media file format.
 - [ISO/IEC 23001-7](http://www.iso.org/iso/catalogue_detail.htm?csnumber=65271) - MPEG systems technologies -- Part 7: Common encryption in ISO base media file format files.
+- [MSE](http://w3c.github.io/media-source/) - W3C Media Source Extensions
+- [EME](https://w3c.github.io/encrypted-media/) - W3C Encrypted Media Extensions
 
 ## Implementations
 ### Client
